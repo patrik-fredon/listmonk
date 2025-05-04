@@ -717,10 +717,10 @@ braces@~3.0.2:
   dependencies:
     fill-range "^7.1.1"
 
-buefy@^0.9.25:
-  version "0.9.25"
-  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.9.25.tgz#1255848d9a8e2ac18f2d824ef39fc72beb48a69f"
-  integrity sha512-XOALwf3XzMnJCYslWUALyNZPnloBIsh4X7UYi1DNw7+wDT0uJ6PVDlFUjIKGTLeL0uTC0/O3E+TT60bUj0jGbg==
+buefy@^0.9.29:
+  version "0.9.29"
+  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.9.29.tgz#1d1fe57a407ef7cd6e9295679371eee63d21bd0f"
+  integrity sha512-iJutB/ezTQcxqcKvKz129DzomMjNRGdy23lJBtoFQBG//2NveTcPkN/VRUF70z2WH3JB/5nmVeoxr8QOPcs42w==
   dependencies:
     bulma "0.9.4"
 
